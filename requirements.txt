@@ -1,0 +1,6 @@
+functions-framework==3.*
+requests==2.26.0
+pandas== 2.2.2
+DateTime==5.5
+pandas-gbq==0.22.0
+lxml==5.2.2
