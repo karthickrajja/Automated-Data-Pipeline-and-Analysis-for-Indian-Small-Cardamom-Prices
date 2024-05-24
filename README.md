@@ -18,11 +18,11 @@ Processed and cleaned the raw data for accuracy and relevance.
 Standardized data types and added timestamps for data collection.
 ## Data Visualization:
 
-Created interactive visualizations using Looker Studio.
-These visualizations provide stakeholders with quick and easy access to market trends and insights.
+Created visualizations using Looker Studio.
+These visualizations provide quick and easy access to market trends and insights.
 
-##Impact:
-This automated pipeline and visualization tool provide a valuable resource for farmers, traders in the cardamom industry which helps monitor price trends, compare auctioneer performance, and make data-driven decisions, contributing to a better understanding of the market and more strategic trading.
+## Impact:
+This automated pipeline and visualization tool provide a valuable resource for farmers and traders in the cardamom industry which helps monitor price trends, compare auctioneer performance, and make data-driven decisions, contributing to a better understanding of the market and more strategic trading.
 
 Live Visualization:
 View the live Looker Studio report https://lookerstudio.google.com/reporting/cce693b0-7ba6-4271-baa3-9f2c920564b0.
