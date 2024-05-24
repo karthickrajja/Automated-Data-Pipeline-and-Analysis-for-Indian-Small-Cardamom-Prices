@@ -10,8 +10,8 @@ Scraped daily price data from the Indian Spices Board website using Python, requ
 Stored the scraped data in Google BigQuery for efficient querying and analysis.
 ## Automation:
 
-Developed a Google Cloud Function to automate the data scraping process.
-Configured Google Cloud Scheduler to run the Cloud Function daily at 7 PM, ensuring consistent data collection.
+Developed a Google Cloud Function to automate the data scraping process -> main.py and requirements.txt file .
+Configured Google Cloud Scheduler to run the Cloud Function daily at 7 PM, ensuring consistent data collection every day.
 ## Data Transformation:
 
 Processed and cleaned the raw data for accuracy and relevance.
